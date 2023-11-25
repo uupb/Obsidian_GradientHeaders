@@ -2,7 +2,7 @@
 Turns the different header levels different amounts of purple, blue, yellow
 
 
-# Obsidian Gradient Headers
+## Obsidian Gradient Headers
 =========================
 
 This CSS snippet enhances the visual appearance of headings in Obsidian notes by applying a colorful gradient effect.
