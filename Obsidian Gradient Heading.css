@@ -1,0 +1,87 @@
+/* Gradient Addons for headings */
+
+/* 0%, 53%, 90% (these are here for fine tuning, change back to these if not sure)*/
+
+h1 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+            rgba(149,14,190,.75) 0%, 
+            rgba(70,245,252,.75) 53%, 
+            rgba(246,240,38,.75) 90%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent; /* Fallback  */
+            -webkit-text-fill-color: transparent;
+  }
+  
+  /* 0%, 40%, 80% */
+  
+  h2 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+            rgba(149,14,190,.75) 0%, 
+            rgba(70,245,252,.75) 40%, 
+            rgba(246,240,38,.75) 80%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent; /* Fallback  */
+            -webkit-text-fill-color: transparent;
+  }
+  
+  /* 0%, 30%, 60% */
+  
+  h3 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+            rgba(149,14,190,.75) 0%, 
+            rgba(70,245,252,.75) 30%, 
+            rgba(246,240,38,.75) 60%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent; /* Fallback  */
+            -webkit-text-fill-color: transparent;
+  }
+  
+  /* 0%, 20%, 40% */
+  
+  h4 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+              rgba(149,14,190,.75) 0%, 
+              rgba(70,245,252,.75) 20%, 
+              rgba(246,240,38,.75) 40%);
+              background-clip: text;
+              -webkit-background-clip: text;
+              color: transparent; /* Fallback  */
+              -webkit-text-fill-color: transparent;
+  }
+  
+  /* 0%, 10%, 20% */
+  
+  h5 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+            rgba(149,14,190,.75) 0%, 
+            rgba(70,245,252,.75) 10%, 
+            rgba(246,240,38,.75) 20%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent; /* Fallback  */
+            -webkit-text-fill-color: transparent;
+  }
+  
+  /* 0%, 5%, 10% */
+  
+  h6 {
+    background: rgb(198,255,221);
+    background: linear-gradient(90deg, 
+            rgba(149,14,190,.75) 0%, 
+            rgba(70,245,252,.75) 5%, 
+            rgba(246,240,38,.75) 10%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent; /* Fallback  */
+            -webkit-text-fill-color: transparent;
+  }
+  
+  
